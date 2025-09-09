@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsandale2_lib.a CMakeFiles/sandale2_lib.dir/yo.c.o
+/usr/bin/ranlib libsandale2_lib.a

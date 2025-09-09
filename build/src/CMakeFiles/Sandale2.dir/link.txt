@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -Wpedantic -g  -Wl,--dependency-file=CMakeFiles/Sandale2.dir/link.d CMakeFiles/Sandale2.dir/yo.c.o -o Sandale2  /usr/lib/libSDL2-2.0.so.0.3200.56 /usr/lib/libSDL2main.a /usr/lib/libSDL2_ttf.so /usr/lib/libSDL2_image.so

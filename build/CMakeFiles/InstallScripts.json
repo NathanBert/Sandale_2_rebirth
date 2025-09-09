@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nathan/Documents/Perso/Coding/Sandale3/build/cmake_install.cmake",
+		"/home/nathan/Documents/Perso/Coding/Sandale3/build/src/cmake_install.cmake",
+		"/home/nathan/Documents/Perso/Coding/Sandale3/build/src/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
